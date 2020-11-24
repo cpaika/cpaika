@@ -1,6 +1,6 @@
 ### Hey, I'm Chris 👋
 
-I'm a software engineer, currently working on building a new application development platform at Constant Contact.
+I'm a software engineer, temporarily taking a break in between jobs.
 
 I write about my experience leading teams and building infrastructure at [paika.tech](https://paika.tech/)
 
